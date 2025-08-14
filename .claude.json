@@ -1,0 +1,6 @@
+{
+    "installMethod": "npm",
+    "autoUpdates": false,
+    "hasCompletedOnboarding": true,
+    "telemetry": false
+}
