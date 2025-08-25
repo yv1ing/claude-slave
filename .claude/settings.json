@@ -1,0 +1,6 @@
+{
+     "env": {
+        "ANTHROPIC_BASE_URL": "https://xxxx",
+        "ANTHROPIC_API_KEY": "sk-xxxxxxxxxx"
+    }
+}
